@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore node_modules directory
+.env
+node_modules/
+*.log
+*.tmp
+
+# git remote add origin https://github.com/Anmol-Gup/course_rest_api.git
+# git branch -M main
+# git push -u origin main
