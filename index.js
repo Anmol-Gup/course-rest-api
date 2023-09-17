@@ -2,7 +2,7 @@ require('dotenv').config()
 require('./connection')
 const express=require('express')
 const app=express()
-const port=3000 || process.env.port;
+const port=process.env.PORT;
 const course_model=require('./course')
 
 app.use(express.json()); // Middleware to parse JSON request body
