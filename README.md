@@ -1,3 +1,4 @@
 # NodeJS REST API
 
-This api is made with NodeJS, ExpressJS & MongoDB to store course details.
+This is a basic API made with NodeJS, ExpressJS & MongoDB to store course details.
+
